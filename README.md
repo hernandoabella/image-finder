@@ -1,1 +1,1 @@
-# buscador-de-imagenes
+# image-finder
